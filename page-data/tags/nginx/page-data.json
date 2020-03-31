@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/nginx/","result":{"data":{"site":{"siteMetadata":{"title":"孙某 Blog"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/ngnix-config/nginx-config/"},"frontmatter":{"title":"Nginx配置与命令"}}}]}},"pageContext":{"tag":"nginx"}}}

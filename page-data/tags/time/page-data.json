@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/time/","result":{"data":{"site":{"siteMetadata":{"title":"孙某 Blog"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/os/linux-windows-time/"},"frontmatter":{"title":"Linux与windows双系统时间同步"}}}]}},"pageContext":{"tag":"time"}}}

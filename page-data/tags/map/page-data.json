@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/map/","result":{"data":{"site":{"siteMetadata":{"title":"孙某 Blog"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/javascript/object-vs-map/"},"frontmatter":{"title":"javascript Object与Map对比"}}}]}},"pageContext":{"tag":"map"}}}

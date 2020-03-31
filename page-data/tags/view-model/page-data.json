@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/view-model/","result":{"data":{"site":{"siteMetadata":{"title":"孙某 Blog"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/android/viewmodel/"},"frontmatter":{"title":"Android ViewModel 例子"}}}]}},"pageContext":{"tag":"ViewModel"}}}

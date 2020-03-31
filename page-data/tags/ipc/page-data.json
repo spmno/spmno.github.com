@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/ipc/","result":{"data":{"site":{"siteMetadata":{"title":"孙某 Blog"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/electron/electron-react-ipc/"},"frontmatter":{"title":"electron react之间通信"}}}]}},"pageContext":{"tag":"ipc"}}}
